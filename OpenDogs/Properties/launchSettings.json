@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "OpenDogs (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "OpenDogs (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
